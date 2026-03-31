@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://tapirro.github.io/sitemap.xml
+Sitemap: https://tapirro.github.io/hilart-shorts/sitemap.xml
+Sitemap: https://tapirro.github.io/hilart-shorts/sitemap-stories.xml
